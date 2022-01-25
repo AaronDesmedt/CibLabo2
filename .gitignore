@@ -1,1 +1,6 @@
 .tmp
+
+# All phases except phase1 are ignored
+
+phase*/
+!phase1/
